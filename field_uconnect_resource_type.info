@@ -1,0 +1,7 @@
+name = Field UCARConnect Resource Type
+description = Provides controlled vocabulary for UCARConnect Resource Type
+
+dependencies[] = uconnect
+package = "UCARConnect"
+version = "7.x-1.0"
+core = 7.x
