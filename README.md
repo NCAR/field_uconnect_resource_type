@@ -9,7 +9,7 @@ The UCARConnect Resource Type module is a Drupal 7 module that provides a field 
 
 This module requires the following modules/libraries:
 
-[UCARConnect] (https://github.com/slclark/uconnect)
+[UCARConnect] (https://github.com/UCAR/uconnect)
 
 ## Installation
 
